@@ -1,0 +1,24 @@
+[Desktop Entry]
+Categories=Application;Development;
+Comment[ru_RU]=
+Comment=
+Comment[en_IN]=
+Encoding=UTF-8
+Exec=/opt/lampp/manager-linux-x64.run
+GenericName[ru_RU]=XAMPP Control Panel
+GenericName=XAMPP Control Panel
+GenericName[en_IN]=XAMPP Control Panel
+Icon=/opt/lampp/htdocs/favicon.ico
+MimeType=
+Name[ru_RU]=XAMPP Control Panel
+Name=XAMPP Control Panel
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-RunOnDiscreteGpu=true
+X-KDE-SubstituteUID=true
+X-KDE-Username=
